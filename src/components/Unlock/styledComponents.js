@@ -15,7 +15,6 @@ export const LockImage = styled.img`
 `
 export const Paragraph = styled.p`
   color: #e2e8f0;
-  font-family: 'Roboto';
   font-size: 25px;
 `
 export const LockButton = styled.button`
@@ -23,6 +22,5 @@ export const LockButton = styled.button`
   color: #ffffff;
   border-radius: 8px;
   padding: 10px;
-  font-family: 'Roboto';
   font-size: 15px;
 `
